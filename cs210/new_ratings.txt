@@ -1,0 +1,423 @@
+Toy Story (1995)|4.0|1
+Toy Story (1995)|4.0|5
+Toy Story (1995)|4.5|7
+Toy Story (1995)|2.5|15
+Toy Story (1995)|4.5|17
+Toy Story (1995)|3.5|18
+Jumanji (1995)|4.0|6
+Jumanji (1995)|4.0|8
+Jumanji (1995)|3.0|18
+Jumanji (1995)|3.0|19
+Jumanji (1995)|3.0|20
+Jumanji (1995)|3.5|21
+Tom and Huck (1995)|3.0|6
+Tom and Huck (1995)|1.0|20
+Tom and Huck (1995)|5.0|43
+Tom and Huck (1995)|3.0|274
+Tom and Huck (1995)|2.0|372
+Tom and Huck (1995)|3.0|414
+Grumpier Old Men (1995)|4.0|1
+Grumpier Old Men (1995)|5.0|6
+Grumpier Old Men (1995)|3.0|19
+Grumpier Old Men (1995)|3.0|32
+Grumpier Old Men (1995)|4.0|42
+Grumpier Old Men (1995)|5.0|43
+Waiting to Exhale (1995)|3.0|6
+Waiting to Exhale (1995)|3.0|14
+Waiting to Exhale (1995)|3.0|84
+Waiting to Exhale (1995)|3.0|162
+Waiting to Exhale (1995)|1.0|262
+Waiting to Exhale (1995)|2.0|411
+Father of the Bride Part II (1995)|5.0|6
+Father of the Bride Part II (1995)|3.0|31
+Father of the Bride Part II (1995)|5.0|43
+Father of the Bride Part II (1995)|3.0|45
+Father of the Bride Part II (1995)|4.0|58
+Father of the Bride Part II (1995)|4.0|66
+Heat (1995)|4.0|1
+Heat (1995)|4.0|6
+Heat (1995)|5.0|11
+Heat (1995)|4.0|18
+Heat (1995)|4.0|23
+Heat (1995)|4.5|24
+Sudden Death (1995)|4.0|151
+Sudden Death (1995)|3.0|179
+Sudden Death (1995)|3.0|217
+Sudden Death (1995)|2.0|269
+Sudden Death (1995)|3.0|270
+Sudden Death (1995)|5.0|337
+GoldenEye (1995)|3.0|6
+GoldenEye (1995)|2.0|8
+GoldenEye (1995)|3.0|11
+GoldenEye (1995)|2.0|19
+GoldenEye (1995)|5.0|21
+GoldenEye (1995)|3.0|26
+The Lion King (1994)|4.0|1
+The Lion King (1994)|4.5|2
+The Lion King (1994)|3.5|3
+The Lion King (1994)|4.0|4
+The Lion King (1994)|4.5|5
+Jurassic Park (1993)|4.0|6
+Jurassic Park (1993)|3.5|7
+Jurassic Park (1993)|4.0|8
+Jurassic Park (1993)|4.0|9
+Jurassic Park (1993)|3.5|10
+Indiana Jones and the Last Crusade (1989)|4.0|11
+Indiana Jones and the Last Crusade (1989)|4.5|12
+Indiana Jones and the Last Crusade (1989)|4.0|13
+Indiana Jones and the Last Crusade (1989)|4.0|14
+Indiana Jones and the Last Crusade (1989)|4.5|15
+Dumb and Dumber (1994)|3.0|16
+Dumb and Dumber (1994)|3.5|17
+Dumb and Dumber (1994)|3.0|18
+Dumb and Dumber (1994)|3.5|19
+Dumb and Dumber (1994)|3.0|20
+Ace Ventura: Pet Detective (1994)|3.5|21
+Ace Ventura: Pet Detective (1994)|4.0|22
+Ace Ventura: Pet Detective (1994)|3.5|23
+Ace Ventura: Pet Detective (1994)|4.0|24
+Ace Ventura: Pet Detective (1994)|3.5|25
+The Mask (1994)|4.0|26
+The Mask (1994)|4.5|27
+The Mask (1994)|4.0|28
+The Mask (1994)|4.5|29
+The Mask (1994)|4.0|30
+Die Hard (1988)|4.5|31
+Die Hard (1988)|4.0|32
+Die Hard (1988)|4.5|33
+Die Hard (1988)|4.0|34
+Die Hard (1988)|4.5|35
+Lethal Weapon (1987)|4.0|36
+Lethal Weapon (1987)|4.5|37
+Lethal Weapon (1987)|4.0|38
+Lethal Weapon (1987)|4.5|39
+Lethal Weapon (1987)|4.0|40
+RoboCop (1987)|3.5|41
+RoboCop (1987)|4.0|42
+RoboCop (1987)|3.5|43
+RoboCop (1987)|4.0|44
+RoboCop (1987)|3.5|45
+Aladdin (1992)|4.0|46
+Aladdin (1992)|4.5|47
+Aladdin (1992)|4.0|48
+Aladdin (1992)|4.5|49
+Aladdin (1992)|4.0|50
+The Little Mermaid (1989)|4.5|51
+The Little Mermaid (1989)|4.0|52
+The Little Mermaid (1989)|4.5|53
+The Little Mermaid (1989)|4.0|54
+The Little Mermaid (1989)|4.5|55
+Beauty and the Beast (1991)|4.0|56
+Beauty and the Beast (1991)|4.5|57
+Beauty and the Beast (1991)|4.0|58
+Beauty and the Beast (1991)|4.5|59
+Beauty and the Beast (1991)|4.0|60
+Mrs. Doubtfire (1993)|3.5|61
+Mrs. Doubtfire (1993)|4.0|62
+Mrs. Doubtfire (1993)|3.5|63
+Mrs. Doubtfire (1993)|4.0|64
+Mrs. Doubtfire (1993)|3.5|65
+The Nutty Professor (1996)|4.0|66
+The Nutty Professor (1996)|4.5|67
+The Nutty Professor (1996)|4.0|68
+The Nutty Professor (1996)|4.5|69
+The Nutty Professor (1996)|4.0|70
+Liar Liar (1997)|3.5|71
+Liar Liar (1997)|4.0|72
+Liar Liar (1997)|3.5|73
+Liar Liar (1997)|4.0|74
+Liar Liar (1997)|3.5|75
+Die Hard (1988)|4.5|76
+Die Hard (1988)|4.0|77
+Die Hard (1988)|4.5|78
+Die Hard (1988)|4.0|79
+Die Hard (1988)|4.5|80
+Speed (1994)|4.0|81
+Speed (1994)|4.5|82
+Speed (1994)|4.0|83
+Speed (1994)|4.5|84
+Speed (1994)|4.0|85
+True Lies (1994)|3.5|86
+True Lies (1994)|4.0|87
+True Lies (1994)|3.5|88
+True Lies (1994)|4.0|89
+True Lies (1994)|3.5|90
+Back to the Future (1985)|4.0|91
+Back to the Future (1985)|4.5|92
+Back to the Future (1985)|4.0|93
+Back to the Future (1985)|4.5|94
+Back to the Future (1985)|4.0|95
+Star Wars: Episode IV - A New Hope (1977)|4.5|96
+Star Wars: Episode IV - A New Hope (1977)|4.0|97
+Star Wars: Episode IV - A New Hope (1977)|4.5|98
+Star Wars: Episode IV - A New Hope (1977)|4.0|99
+Star Wars: Episode IV - A New Hope (1977)|4.5|100
+The Princess Bride (1987)|4.0|101
+The Princess Bride (1987)|4.5|102
+The Princess Bride (1987)|4.0|103
+The Princess Bride (1987)|4.5|104
+The Princess Bride (1987)|4.0|105
+Ferris Bueller's Day Off (1986)|3.5|106
+Ferris Bueller's Day Off (1986)|4.0|107
+Ferris Bueller's Day Off (1986)|3.5|108
+Ferris Bueller's Day Off (1986)|4.0|109
+Ferris Bueller's Day Off (1986)|3.5|110
+The Breakfast Club (1985)|4.0|111
+The Breakfast Club (1985)|4.5|112
+The Breakfast Club (1985)|4.0|113
+The Breakfast Club (1985)|4.5|114
+The Breakfast Club (1985)|4.0|115
+Ghostbusters (1984)|3.5|116
+Ghostbusters (1984)|4.0|117
+Ghostbusters (1984)|3.5|118
+Ghostbusters (1984)|4.0|119
+Ghostbusters (1984)|3.5|120
+Mad Max: Fury Road (2015)|4.5|121
+Mad Max: Fury Road (2015)|4.0|122
+Mad Max: Fury Road (2015)|4.5|123
+Mad Max: Fury Road (2015)|4.0|124
+Mad Max: Fury Road (2015)|4.5|125
+John Wick (2014)|4.0|126
+John Wick (2014)|4.5|127
+John Wick (2014)|4.0|128
+John Wick (2014)|4.5|129
+John Wick (2014)|4.0|130
+The Dark Knight (2008)|3.5|131
+The Dark Knight (2008)|4.0|132
+The Dark Knight (2008)|3.5|133
+The Dark Knight (2008)|4.0|134
+The Dark Knight (2008)|3.5|135
+E.T. the Extra-Terrestrial (1982)|4.0|136
+E.T. the Extra-Terrestrial (1982)|4.5|137
+E.T. the Extra-Terrestrial (1982)|4.0|138
+E.T. the Extra-Terrestrial (1982)|4.5|139
+E.T. the Extra-Terrestrial (1982)|4.0|140
+The Goonies (1985)|4.5|141
+The Goonies (1985)|4.0|142
+The Goonies (1985)|4.5|143
+The Goonies (1985)|4.0|144
+The Goonies (1985)|4.5|145
+Home Alone (1990)|3.5|1
+Home Alone (1990)|4.0|2
+Home Alone (1990)|3.5|3
+Home Alone (1990)|4.0|4
+Home Alone (1990)|3.5|5
+Beetlejuice (1988)|4.0|6
+Beetlejuice (1988)|4.5|7
+Beetlejuice (1988)|4.0|8
+Beetlejuice (1988)|4.5|9
+Beetlejuice (1988)|4.0|10
+Groundhog Day (1993)|3.5|11
+Groundhog Day (1993)|4.0|12
+Groundhog Day (1993)|3.5|13
+Groundhog Day (1993)|4.0|14
+Groundhog Day (1993)|3.5|15
+The Matrix (1999)|4.5|16
+The Matrix (1999)|4.0|17
+The Matrix (1999)|4.5|18
+The Matrix (1999)|4.0|19
+The Matrix (1999)|4.5|20
+Gladiator (2000)|4.0|21
+Gladiator (2000)|4.5|22
+Gladiator (2000)|4.0|23
+Gladiator (2000)|4.5|24
+Gladiator (2000)|4.0|25
+300 (2006)|3.5|26
+300 (2006)|4.0|27
+300 (2006)|3.5|28
+300 (2006)|4.0|29
+300 (2006)|3.5|30
+Finding Nemo (2003)|4.0|20
+Finding Nemo (2003)|4.5|21
+Finding Nemo (2003)|4.0|22
+Finding Nemo (2003)|4.5|23
+Finding Nemo (2003)|4.0|24
+Up (2009)|4.5|25
+Up (2009)|4.0|26
+Up (2009)|4.5|27
+Up (2009)|4.0|28
+Up (2009)|4.5|29
+The Incredibles (2004)|4.0|30
+The Incredibles (2004)|4.5|31
+The Incredibles (2004)|4.0|32
+The Incredibles (2004)|4.5|33
+The Incredibles (2004)|4.0|34
+Superbad (2007)|3.5|35
+Superbad (2007)|4.0|36
+Superbad (2007)|3.5|37
+Superbad (2007)|4.0|38
+Superbad (2007)|3.5|39
+Step Brothers (2008)|4.0|40
+Step Brothers (2008)|4.5|41
+Step Brothers (2008)|4.0|42
+Step Brothers (2008)|4.5|43
+Step Brothers (2008)|4.0|44
+The Hangover (2009)|3.5|45
+The Hangover (2009)|4.0|46
+The Hangover (2009)|3.5|47
+The Hangover (2009)|4.0|48
+The Hangover (2009)|3.5|49
+Inception (2010)|4.5|50
+Inception (2010)|4.0|51
+Inception (2010)|4.5|52
+Inception (2010)|4.0|53
+Inception (2010)|4.5|54
+The Avengers (2012)|4.0|55
+The Avengers (2012)|4.5|56
+The Avengers (2012)|4.0|57
+The Avengers (2012)|4.5|58
+The Avengers (2012)|4.0|59
+Iron Man (2008)|3.5|60
+Iron Man (2008)|4.0|61
+Iron Man (2008)|3.5|62
+Iron Man (2008)|4.0|63
+Iron Man (2008)|3.5|64
+Wall-E (2008)|4.0|1
+Wall-E (2008)|4.5|2
+Wall-E (2008)|4.0|3
+Wall-E (2008)|4.5|4
+Wall-E (2008)|4.0|5
+Avatar (2009)|4.5|6
+Avatar (2009)|4.0|7
+Avatar (2009)|4.5|8
+Avatar (2009)|4.0|9
+Avatar (2009)|4.5|10
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.0|11
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.5|12
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.0|13
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.5|14
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.0|15
+Anchorman: The Legend of Ron Burgundy (2004)|3.5|16
+Anchorman: The Legend of Ron Burgundy (2004)|4.0|17
+Anchorman: The Legend of Ron Burgundy (2004)|3.5|18
+Anchorman: The Legend of Ron Burgundy (2004)|4.0|19
+Anchorman: The Legend of Ron Burgundy (2004)|3.5|20
+Zoolander (2001)|4.0|21
+Zoolander (2001)|4.5|22
+Zoolander (2001)|4.0|23
+Zoolander (2001)|4.5|24
+Zoolander (2001)|4.0|25
+Napoleon Dynamite (2004)|3.5|26
+Napoleon Dynamite (2004)|4.0|27
+Napoleon Dynamite (2004)|3.5|28
+Napoleon Dynamite (2004)|4.0|29
+Napoleon Dynamite (2004)|3.5|30
+The Bourne Identity (2002)|4.5|31
+The Bourne Identity (2002)|4.0|32
+The Bourne Identity (2002)|4.5|33
+The Bourne Identity (2002)|4.0|34
+The Bourne Identity (2002)|4.5|35
+Casino Royale (2006)|4.0|36
+Casino Royale (2006)|4.5|37
+Casino Royale (2006)|4.0|38
+Casino Royale (2006)|4.5|39
+Casino Royale (2006)|4.0|40
+Transformers (2007)|3.5|41
+Transformers (2007)|4.0|42
+Transformers (2007)|3.5|43
+Transformers (2007)|4.0|44
+Transformers (2007)|3.5|45
+Se7en (1995)|4.5|2
+Se7en (1995)|4.0|3
+Se7en (1995)|4.5|4
+Se7en (1995)|4.0|5
+The Silence of the Lambs (1991)|4.0|6
+The Silence of the Lambs (1991)|4.5|7
+The Silence of the Lambs (1991)|4.0|8
+The Silence of the Lambs (1991)|4.5|9
+Inception (2010)|4.0|10
+Inception (2010)|4.5|11
+Inception (2010)|4.0|12
+Inception (2010)|4.5|13
+Fight Club (1999)|4.0|18
+Fight Club (1999)|4.5|19
+Fight Club (1999)|4.0|20
+Fight Club (1999)|4.5|21
+Memento (2000)|4.0|22
+Memento (2000)|4.5|23
+Memento (2000)|4.0|24
+Memento (2000)|4.5|25
+The Sixth Sense (1999)|4.0|26
+The Sixth Sense (1999)|4.5|27
+The Sixth Sense (1999)|4.0|28
+The Sixth Sense (1999)|4.5|29
+The Usual Suspects (1995)|4.0|30
+The Usual Suspects (1995)|4.5|31
+The Usual Suspects (1995)|4.0|32
+The Usual Suspects (1995)|4.5|33
+Gone Girl (2014)|4.0|34
+Gone Girl (2014)|4.5|35
+Gone Girl (2014)|4.0|36
+Gone Girl (2014)|4.5|37
+Shutter Island (2010)|4.0|38
+Shutter Island (2010)|4.5|39
+Shutter Island (2010)|4.0|40
+Shutter Island (2010)|4.5|41
+Inside Out (2015)|4.0|54
+Inside Out (2015)|4.5|55
+Inside Out (2015)|4.0|56
+Inside Out (2015)|4.5|57
+Coco (2017)|4.0|58
+Coco (2017)|4.5|59
+Coco (2017)|4.0|60
+Coco (2017)|4.5|61
+Titanic (1997)|4.0|62
+Titanic (1997)|4.5|63
+Titanic (1997)|4.0|64
+Titanic (1997)|4.5|65
+Pride and Prejudice (2005)|4.0|66
+Pride and Prejudice (2005)|4.5|67
+Pride and Prejudice (2005)|4.0|68
+Pride and Prejudice (2005)|4.5|69
+The Notebook (2004)|4.0|70
+The Notebook (2004)|4.5|71
+The Notebook (2004)|4.0|72
+The Notebook (2004)|4.5|73
+A Walk to Remember (2002)|4.0|74
+A Walk to Remember (2002)|4.5|75
+A Walk to Remember (2002)|4.0|76
+A Walk to Remember (2002)|4.5|77
+Before Sunrise (1995)|4.0|78
+Before Sunrise (1995)|4.5|79
+Before Sunrise (1995)|4.0|80
+Before Sunrise (1995)|4.5|81
+The Shawshank Redemption (1994)|4.0|82
+The Shawshank Redemption (1994)|4.5|83
+The Shawshank Redemption (1994)|4.0|84
+The Shawshank Redemption (1994)|4.5|85
+Forrest Gump (1994)|4.0|86
+Forrest Gump (1994)|4.5|87
+Forrest Gump (1994)|4.0|88
+Forrest Gump (1994)|4.5|89
+The Godfather (1972)|4.0|90
+The Godfather (1972)|4.5|91
+The Godfather (1972)|4.0|92
+The Godfather (1972)|4.5|93
+Schindler's List (1993)|4.0|94
+Schindler's List (1993)|4.5|95
+Schindler's List (1993)|4.0|96
+Schindler's List (1993)|4.5|97
+The Green Mile (1999)|4.0|98
+The Green Mile (1999)|4.5|99
+The Green Mile (1999)|4.0|100
+The Green Mile (1999)|4.5|101
+Wall-E (2008)|4.0|102
+Wall-E (2008)|4.5|103
+Wall-E (2008)|4.0|104
+Wall-E (2008)|4.5|105
+Avatar (2009)|4.0|106
+Avatar (2009)|4.5|107
+Avatar (2009)|4.0|108
+Avatar (2009)|4.5|109
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.0|110
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.5|111
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.0|112
+The Lord of the Rings: The Fellowship of the Ring (2001)|4.5|113
+Anchorman: The Legend of Ron Burgundy (2004)|4.0|114
+Anchorman: The Legend of Ron Burgundy (2004)|4.5|115
+Anchorman: The Legend of Ron Burgundy (2004)|4.0|116
+Anchorman: The Legend of Ron Burgundy (2004)|4.5|117
+Zoolander (2001)|4.0|118
+Zoolander (2001)|4.5|119
+Zoolander (2001)|4.0|120
+Zoolander (2001)|4.5|121
